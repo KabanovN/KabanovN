@@ -11,7 +11,7 @@ I like:
 🌱🔭 Currently improving my skills in __React__ <img align="center" width="26px" alt="REACT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> and learning __Redux__ <img align="center" width="26px" alt="REDUX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <br />
 <br />
-Using: <br />
+___Using:___ <br />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
@@ -28,11 +28,11 @@ Using: <br />
 <img align="left" alt="GULP" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
 <br />
 <br />
-Learning: <br />
+___Learning:___ <br />
 <img align="left" alt="REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <br />
 <br />
-Next Step: <br />
+___Next Step:___ <br />
 <img align="left" alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/>
