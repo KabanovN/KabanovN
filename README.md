@@ -1,6 +1,5 @@
 ### Hi there, I'm Nikita 👋
 
-#### <img width="20px" align="center" alt="telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> _KabanovN_
 ---
 ### Skills and Tools
 🌱🔭 Currently improving my skills in __React__ <img align="center" width="26px" alt="REACT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> and learning __Redux__ <img align="center" width="26px" alt="REDUX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
@@ -35,3 +34,5 @@ ___Next Step:___ <br />
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanovn&layout=compact)](https://github.com/kabanovn/github-readme-stats"/>
+
+#### <img width="20px" align="center" alt="telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> _@KabanovN_
