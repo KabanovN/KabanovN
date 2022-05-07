@@ -35,4 +35,6 @@ ___Next Step:___ <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanovn&layout=compact)](https://github.com/kabanovn/github-readme-stats"/>
 
+---
+
 #### <img width="20px" align="center" alt="telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> _@KabanovN_
