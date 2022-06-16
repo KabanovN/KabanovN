@@ -23,12 +23,8 @@ ___Using:___ <br />
 <br />
 <br />
 ___Learning:___ <br />
-<img align="left" alt="REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="left" alt="REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> <img alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <br />
-<br />
-___Next Step:___ <br />
-<img align="left" alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-
 <br/>
 
 ---
