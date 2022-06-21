@@ -32,5 +32,41 @@ ___Learning:___ <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanovn&layout=compact)](https://github.com/kabanovn/github-readme-stats"/>
 
 ---
+### My projects navigation: <br/>
+
+**React**:
+
+-   [Job Listing](https://github.com/KabanovN/redux-job-listing) (Redux)
+-   [Simple ToDo](https://github.com/KabanovN/simple-redux-todos) (Redux)
+-   [Simple Counter](https://github.com/KabanovN/simple-redux-counter) (Redux)
+-   [Marvel](https://github.com/KabanovN/react-marvel) (hooks, react-router, REST API)
+-   [Meals](https://github.com/KabanovN/react-meals) (hooks, react-router, REST API)
+-   [Shop](https://github.com/KabanovN/react-shop) (hooks, REST API)
+-   [Movies](https://github.com/KabanovN/react-movies) (hooks, REST API)
+-   [Employees](https://github.com/KabanovN/react-employees) (classes)
+-   [Twitter](https://github.com/KabanovN/react-employees) (classes)
+-   [Coffee House](https://github.com/KabanovN/react-employees) (classes)
+
+**JS**:
+
+-   [UI-Library](https://github.com/KabanovN/UI-library)
+-   [BringItUp](https://github.com/KabanovN/BringItUp)
+-   [Windows](https://github.com/KabanovN/Window-Project)
+-   [Art](https://github.com/KabanovN/Art)
+-   [Food](https://github.com/KabanovN/Food)
+-   [Simple JS Movie Project](https://github.com/KabanovN/project-Movie)
+
++Tests:
+
+-   [Filter range function](https://github.com/KabanovN/filter-courses-test)
+
+**HTML + CSS**:
+
+-   [Barbershop](https://github.com/KabanovN/Barbershop)
+-   [Marketika](https://github.com/KabanovN/Marketika) (SCSS)
+
+---
 
 #### <img width="20px" align="center" alt="telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> _@KabanovN_
+
+---
