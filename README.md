@@ -36,6 +36,7 @@ ___Learning:___ <br />
 
 **React**:
 
+-   [Top App](https://github.com/KabanovN/next-top-app) (NextJS)
 -   [Job Listing](https://github.com/KabanovN/redux-job-listing) (Redux)
 -   [Simple ToDo](https://github.com/KabanovN/simple-redux-todos) (Redux)
 -   [Simple Counter](https://github.com/KabanovN/simple-redux-counter) (Redux)
