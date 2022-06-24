@@ -45,8 +45,8 @@ ___Learning:___ <br />
 -   [Shop](https://github.com/KabanovN/react-shop) (hooks, REST API)
 -   [Movies](https://github.com/KabanovN/react-movies) (hooks, REST API)
 -   [Employees](https://github.com/KabanovN/react-employees) (classes)
--   [Twitter](https://github.com/KabanovN/react-employees) (classes)
--   [Coffee House](https://github.com/KabanovN/react-employees) (classes)
+-   [Twitter](https://github.com/KabanovN/Twitter-React) (classes)
+-   [Coffee House](https://github.com/KabanovN/react-coffee-house) (classes)
 
 **JS**:
 
