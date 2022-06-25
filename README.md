@@ -60,6 +60,7 @@ ___Learning:___ <br />
 +Tests:
 
 -   [Filter range function](https://github.com/KabanovN/filter-courses-test)
+-   [React Agency](https://github.com/KabanovN/react-agency)
 
 **HTML + CSS**:
 
