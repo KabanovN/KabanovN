@@ -68,7 +68,3 @@ ___Learning:___ <br />
 -   [Marketika](https://github.com/KabanovN/Marketika) (SCSS)
 
 ---
-
-#### <img width="20px" align="center" alt="telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> _@KabanovN_
-
----
